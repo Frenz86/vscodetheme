@@ -14,6 +14,5 @@
         "tab.inactiveBackground": "#222"
     }
     },
-    "window.zoomLevel": 1
-}
+    "window.zoomLevel": 1}
 
